@@ -32,3 +32,21 @@
     department: PBAGDM
     major     : MMP
     minor     : NMD
+
+- id: 1819-CSSE
+  type: MODULE
+  lang: nl
+  color: primary
+  title:
+    short: CSSE
+    long : Computer Science & Software Engineering
+  academic-year: 2018-2019
+  authors: # First is owner
+    - KR
+    - AAD
+    - PDP
+  programme:
+    institute : AHS
+    department: PBAGDM
+    major     : MMP
+    minor     : NMD
