@@ -50,3 +50,19 @@
     department: PBAGDM
     major     : MMP
     minor     : NMD
+
+- id: 1819-WOT
+  type: MODULE
+  lang: nl
+  color: primary
+  title:
+    short: WOT
+    long : Web of Things
+  academic-year: 2018-2019
+  authors: # First is owner
+    - PDP
+  programme:
+    institute : AHS
+    department: PBAGDM
+    major     : MMP
+    minor     : NMD
