@@ -1,6 +1,6 @@
 # Site settings
 # -------------
-baseurl : /csse # the subpath of your site, e.g. /blog
+baseurl : /computer-science # the subpath of your site, e.g. /blog
 host    : 127.0.0.1
 port    : 4110
 
