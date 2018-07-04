@@ -6,7 +6,7 @@ port    : 4110
 
 # Course
 # ------
-syllabus-id: 1819-CSSE
+syllabus-id: 1819-COMPUTER-SCIENCE
 
 hero_introduction : Syllabus voor het onderdeel CSSE
 hero_image        : /syllabus-resources/assets/images/header-dev.jpg
