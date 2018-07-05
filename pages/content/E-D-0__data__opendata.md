@@ -1,6 +1,6 @@
 ---
-title: Datastructuren
-title_long: Datastructuren
-permalink: data/datastructures/
+title: Open Data
+title_long: Open Data
+permalink: data/opendata/
 ---
 
