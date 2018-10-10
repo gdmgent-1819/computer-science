@@ -2,6 +2,7 @@
 title: Programmeren
 title_long: Programmeren
 permalink: programming/
+published: true
 ---
 - Wat is een paradigma?
 - Wat is een programmeertaal?

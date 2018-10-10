@@ -2,14 +2,9 @@
 title: Datatypen
 title_long: Datatypen
 permalink: data/datatypes/
+published: false
 ---
 
----
-layout: course
-permalink: datatypes/
-#
-title: Data en datatypes
----
 ## Wat is data?
 
 Data is een gegevensverzameling, ook wel dataset genoemd welke in de meeste gevallen gepresenteerd is in een tabelvorm.
@@ -114,4 +109,4 @@ int r = 5.0; // Geen impliciete conversie voor double naar int.
 int s = (int)5.0; // Expliciete conversie.
 {% endhighlight %}
 
-[Referentie voorbeelden code repo.](https://github.com/gdmgent/1718-csse-code/tree/master/week02)
+//[Referentie voorbeelden code repo.](https://github.com/gdmgent/1718-csse-code/tree/master/week02)
