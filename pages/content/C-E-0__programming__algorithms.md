@@ -2,7 +2,7 @@
 title: Algoritmen
 title_long: Algoritmen
 permalink: programming/algorithms/
-published: false
+published: true
 ---
 
 ##Wat is een [algoritme](https://nl.wikipedia.org/wiki/Algoritme)?

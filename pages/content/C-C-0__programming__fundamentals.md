@@ -2,7 +2,7 @@
 title: Fundamenten
 title_long: Fundamenten
 permalink: programming/fundamentals/
-published: false
+published: true
 ---
 ## Commentaar plaatsen
 
