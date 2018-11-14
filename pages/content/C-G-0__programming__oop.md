@@ -34,7 +34,7 @@ Een klasse bestaat uit:
     }
 {% endhighlight %}    
 
-{Referentie](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/constructors)
+[Referentie](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/constructors)
 
 - methodes
 
