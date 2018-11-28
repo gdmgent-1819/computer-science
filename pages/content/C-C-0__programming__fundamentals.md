@@ -351,6 +351,25 @@ Referentie:    [https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide
 - Inhoud van de methode
     - Volgorde van instructies om uit te voeren.
 
+### Interfaces
+
+Een interface bevat de definities van een groep van gerelateerde functionaliteiten die een klasse of een struct kan implementeren.
+
+Voor een interface dien je het keyword interface te gebruiken.
+De naam van de interface dient te starten met een hoofdletter I.
+De interface in het voorbeeld hieronder voorziet in een definitie van een functie accountActive.
+
+{% highlight cs linenos %}
+interface IAccount
+{
+    bool accountActive(Account a);
+}
+{% endhighlight %}
+
+Wat is het verschil tussen een interface en een abstract klasse?
+Wat is het voordeel van een interface bij overerving?
+
+[Referentie](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/interfaces/)
 
 ### Exceptions
 Een exception is een fout die gegooid wordt via keyword [throw](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/throw).
