@@ -4,7 +4,7 @@ title_long: Fundamenten
 permalink: programming/fundamentals/
 published: true
 ---
-## Commentaar plaatsen
+## Commentaar plaatsen.
 
 Het is aanbevolen je broncode altijd te voorzien van commentaar zodat je later gemakkelijk wijzigingen kunt uitvoeren en de broncode ook leesbaar/begrijpbaar is voor anderen.
 
@@ -28,8 +28,7 @@ In code worden er dikwijls veel berekeningen uitgevoerd, elementen met elkaar ve
 Hieronder kan je de operatoren vinden in groep.
 
 
-Overzicht rekenkundige operatoren
----------------------------------
+### Overzicht rekenkundige operatoren.
 
 | Operator | Omschrijving             |
 |:---------|:------------------------:|
@@ -45,8 +44,7 @@ Overzicht rekenkundige operatoren
 {:.table.table-striped}
 
 
-Overzicht tekenreeks operatoren
--------------------------------
+### Overzicht tekenreeks operatoren.
 
 | Operator | Omschrijving                             |
 |:---------|:----------------------------------------:|
@@ -55,20 +53,18 @@ Overzicht tekenreeks operatoren
 {:.table.table-striped}
 
 
-Overzicht logische operatoren
---------------------------------
+### Overzicht logische operatoren.
 
 | Operator | Omschrijving |
 |:---------|:------------:|
 | !        | NOT          |
 | &&       | AND          |
-| ||       | OR           |
+| \|\|       | OR           |
 |==========|==============|
 {:.table.table-striped}
 
 
-Overzicht relationele operatoren
---------------------------------
+### Overzicht relationele operatoren.
 
 | Operator | Omschrijving                 |
 |:---------|:----------------------------:|
@@ -82,7 +78,7 @@ Overzicht relationele operatoren
 {:.table.table-striped}
 
 
-## Sequentie/opeenvolging
+## Sequentie/opeenvolging.
 
 Een sequentie is een opeenvolging van instructies die een voor een uitgevoerd worden in de volgorde waarin ze geschreven zijn.
 
@@ -95,9 +91,9 @@ saveValue();
 {% endhighlight %}
 
 
-## Keuze/selectie
+## Keuze/selectie.
 
-### Intro tot keuze
+### Intro tot keuze.
 
 Een selectie of keuze wordt meestal uitgevoerd door gebruik te maken van het “if-statement”. 
 Afhankelijk van het resultaat van het "if-statement" zal de handeling tussen de accolades {}, na de if, al dan niet uitgevoerd worden.
@@ -113,7 +109,7 @@ Als er aan de voorwaarde voldaan is dan zal code uitgevoerd worden dus in het th
 Indien niet aan de voorwaarde is voldaan dan zullen de handelingen aanwezig in het else deel uitgevoerd worden.
 De voorwaarde van het "if-statement" kan zowel bestaaan uit een enkelvoudige als uit een samengestelde logische formulering, zie relationele en logische operatoren.
 
-### If-statement
+### If-statement.
 
 {% highlight cs linenos %}
 int getal = 0;
@@ -131,7 +127,7 @@ De conditie of voorwaarde is een logische formulering (true of false als resulta
 Als de conditie een true oplevert dan zal het statement uitgevoerd worden om volgende lijn af te drukken in de console: Het getal is groter dan 0!
 Als de conditie een false oplevert zal het programma de lijnen code uitvoeren na de accolade van het if-statement.
 
-### IfElse-statement
+### IfElse-statement.
 
 {% highlight cs linenos %}
 int getal = 0;
@@ -154,7 +150,7 @@ De conditie of voorwaarde is een logische formulering (true of false als resulta
 Als de conditie een true oplevert dan zal het statement uitgevoerd worden om volgende lijn af te drukken in de console: Het getal is groter dan 0!
 Als de conditie een false oplevert zal het programma de lijnen code uitvoeren na de accolade van het else-statement.
 
-### IfElseIfElse-statement
+### IfElseIfElse-statement.
 
 {% highlight cs linenos %}
 int getal = 0;
@@ -180,7 +176,7 @@ else
 
 Zoals in bovenstaand voorbeeld is te zien kan men ook nog opteren om de ifelse uit te breiden met een elseif zodat je hierbij een extra keuze kan toevoegen tot je klassieke ifelse-structuur.
 
-### Geneste IfElse-structuur
+### Geneste IfElse-structuur.
 
 Bij een geneste IfElse-structuur is het zo dat je meerdere controlestructuren gaat hebben op verschillende niveaus.
 Hieronder kan je een voorbeeld vinden van een geneste IfElse-structuur.
@@ -214,7 +210,7 @@ if (getal > 0)// conditie of voorwaarde
 {% endhighlight %}
 
 
-### Switch-statement
+### Switch-statement.
 
 Vanaf je meer dan 2 keuzemogelijkheden dient in te bouwen is de switch-structuur efficiënter. 
 
@@ -258,7 +254,7 @@ Goed om weten:
 
 Referentie: [https://nl.wikibooks.org/wiki/Programmeren,_de_basis/De_controlestructuren](https://nl.wikibooks.org/wiki/Programmeren,_de_basis/De_controlestructuren)
 
-## Herhaling/iteratie
+## Herhaling/iteratie.
 
 Een iteratie zorgt ervoor dat je een opeenvolging van instructies een x aantal keren kunt herhalen.
 Men spreekt ook wel van een lus of een herhaling.
@@ -267,7 +263,7 @@ Enkele voorbeelden:
 - Overlopen van een lijst.
 - Vermenigvuldigingstafel opstellen.
 
-### For loop
+### For loop.
 
 Een for loop of ook wel begrensde herhaling is er op voorhand vastgelegd hoeveel keren de instructies herhaald moeten worden.
 
@@ -278,7 +274,7 @@ Een for loop of ook wel begrensde herhaling is er op voorhand vastgelegd hoeveel
     }
 {% endhighlight %}
 
-### While loop
+### While loop.
 
 {% highlight cs linenos %}
     while (true)
@@ -287,7 +283,9 @@ Een for loop of ook wel begrensde herhaling is er op voorhand vastgelegd hoeveel
     }
 {% endhighlight %}
 
-### Do While loop
+### Do While loop.
+
+Met behulp van een Do While loop ga je ...
 
 {% highlight cs linenos %}
     do
@@ -296,7 +294,9 @@ Een for loop of ook wel begrensde herhaling is er op voorhand vastgelegd hoeveel
      } while (true);
 {% endhighlight %}
 
-### ForEach loop
+### ForEach loop.
+
+Door middel van een ForEach loop ga je alle elementen in collectie overlopen.
 
 {% highlight cs linenos %}
     foreach (var item in collection)
@@ -306,3 +306,4 @@ Een for loop of ook wel begrensde herhaling is er op voorhand vastgelegd hoeveel
 {% endhighlight %}
 
 [Referentie](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/index)
+

@@ -5,17 +5,21 @@ permalink: programming/types/
 published: true
 ---
 
-##Wat is een paradigma?
+Wat is een paradigma?
+---------------------
 Een programmeerparadigma is een denkwijze, welke vaak verschilt in de wijze van aanpak om tot het gewenste resultaat te komen.
 
 Referentie: [Programmeerparadigma](https://nl.wikipedia.org/wiki/Programmeerparadigma)
 
-##Belangrijke paradigma's:
+Belangrijke paradigma's.
+------------------------
 ### [Imperatief/procedureeel programmeren](https://nl.wikipedia.org/wiki/Imperatief_programmeren)
-    Opdrachten die direct uitgevoerd kunnen worden.
-    Een imperatief of procedureel programma beschrijft een berekening volgens het turingmodel: de volledige berekening gaat hierbij bestaan in een reeks van kleine stappen waarbij de toestand van de berekening telkens wordt aangepast, en dit tot er een antwoord is.
-    - [Turningmachine](https://nl.wikipedia.org/wiki/Turingmachine): model van berekenen (beschrijft in detail hoe een berekening uitgevoerd dient te worden).
-    - [Von Neumann-cyclus](https://nl.wikipedia.org/wiki/Von_Neumann-cyclus): beschrijft hoe een computer in praktische zin zou kunnen werken.
+
+Opdrachten die direct uitgevoerd kunnen worden.
+Een imperatief of procedureel programma beschrijft een berekening volgens het turingmodel: de volledige berekening gaat hierbij bestaan in een reeks van kleine stappen waarbij de toestand van de berekening telkens wordt aangepast, en dit tot er een antwoord is.
+  
+  - [Turningmachine](https://nl.wikipedia.org/wiki/Turingmachine): model van berekenen (beschrijft in detail hoe een berekening uitgevoerd dient te worden).
+  - [Von Neumann-cyclus](https://nl.wikipedia.org/wiki/Von_Neumann-cyclus): beschrijft hoe een computer in praktische zin zou kunnen werken.
 
 Zuiver imperatef programmeren: C.
 Hybride programmeren: C++, PHP.
@@ -37,7 +41,7 @@ Bij een logische programmeertaal: de compiler/interpreter is op de hoogte van ee
 
 Voorbeeld van een functionele en logische programmeertaal is Curry.
 
-### [Objectgeoriënteerd programmeren](https://nl.wikipedia.org/wiki/Objectgeori%C3%ABnteerd), afkorting OO.
+### [Objectgeoriënteerd programmeren](https://nl.wikipedia.org/wiki/Objectgeori%C3%ABnteerd), afkorting OOP.
 Het dient uitsluitend om programma's beter te structureren, met het oog op: overzichtelijkheid, onderhoudbaarheid en herbruikbaarheid van componenten.
 
  - Inkapselen van data
