@@ -19,6 +19,7 @@ Uit een klasse kunnen we oneindig veel objecten maken.
 Een klasse bestaat uit:
 - velden (instance variables, variabele van alle types kunnnen hierbij)
 - properties (voor bewerkingen uit te voeren op de velden)
+Wel een verschil met auto implemented properties ([referentie](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/auto-implemented-properties)).
 - constructors (startwaarden voor de velden, initialisatie)
     - Een constructor is een methode waarvan de naam dezelfde is als de naam van de klasse.
     - De signatuur van de methode bevat enkel de methodenaam en de lijst van parameters, er is geen returntype aanwezig.
