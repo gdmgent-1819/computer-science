@@ -371,6 +371,9 @@ Wat is het voordeel van een interface bij overerving?
 
 [Referentie](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/interfaces/)
 
+### Abstracte klasse
+[Referentie](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/abstract)
+
 ### Exceptions
 Een exception is een fout die gegooid wordt via keyword [throw](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/throw).
 De type exception hangt af van de fout die opgetreden is.
@@ -443,7 +446,6 @@ finally
     Console.WriteLine("i: {0}", i);
 }
 {% endhighlight %}
-
 
 
 Referenties:
