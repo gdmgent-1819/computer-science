@@ -20,8 +20,6 @@ Fundamentals bij programmeren.
 ------------------------------
 
 
-
-
 - Wat is data?
 - De verschillende soorten datatypes en datastructuren.
 - Installeren .NET Core in Visual Studio Code.

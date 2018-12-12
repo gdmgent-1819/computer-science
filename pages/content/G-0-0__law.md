@@ -137,10 +137,35 @@ Je dient open en transparant te communiceren over wat je gaat doen met de data e
 
 
 Referenties:
- - [Referentie GDPR NL](http://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:32016R0679&from=NL)
- - [Referentie GDPR EN](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=NL)
- - [GDPR portal](http://ec.europa.eu/justice/data-protection/)
+ - [Referentie GDPR NL.](http://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:32016R0679&from=NL)
+ - [Referentie GDPR EN.](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&from=NL)
+ - [GDPR portal.](http://ec.europa.eu/justice/data-protection/)
  - [GBA](https://www.privacycommission.be/)
- - [GDPR stappenplan](https://www.gegevensbeschermingsautoriteit.be/sites/privacycommission/files/documents/STAPPENPLAN%20NL%20-%20V2.pdf)
+ - [GDPR stappenplan.](https://www.gegevensbeschermingsautoriteit.be/sites/privacycommission/files/documents/STAPPENPLAN%20NL%20-%20V2.pdf)
+ - [Blogpost omtrent GDPR.](https://www.combell.com/nl/blog/avg-gdpr-wat-moet-je-weten-als-combell-klant/)
+ - [Voorbeeld privacy policy Combell](https://www.combell.com/nl/over-combell/privacy-policy)
+ - [Voorbeeld privacy policy Google ](https://policies.google.com/privacy?hl=en)
+
 
 # Cookiewetgeving
+
+Richtlijn 2009/136/EC en 45/2001 beschrijft de Europese cookiewetgeving.
+Hierin zijn volgende zaken van belang:
+
+- Het gebruik van cookies dient beperkt te worden tot het noodzakelijke.
+- Je dient informatie te verschaffen aan de gebruikers omtrent de cookies die zullen aangemaakt worden op zijn computer, voor wat deze dienen en ook hun toestemming vragen om dit te mogen uitvoeren.
+- Voor cookies van derden (zoals die van Google (Analytics, Tag Manager,...)) waarbij deze bewaard worden over de sessies heen, dient men toestemming te vragen vooraf.
+- De uitzondering is indien de cookies enkel gebruikt worden voor het uitvoeren van communicatie of als deze noodzakelijk zijn om een dienst aan te bieden zoals het aanmelden op een website, of de werking van een webshop (winkelmandje) en cookies die zich beperken tot de sessie zelf en dus niet over sessie heen bewaard worden.
+- Deze verplichtingen zijn niet enkel van toepassing voor websites maar ook voor webapplicaties (webapps), communicatie via e-mail,... 
+
+## Actieplan
+
+Belangrijk is hierbij om in kaart te brengen welke cookies je gebruikt op je website/webapp.
+Voorzie in een pagina met je cookie policy.
+Voorzie in een toestemmingsbericht wanneer je je website/webapp bezoekt.
+
+
+
+Referenties:
+- [Blogpost] (https://www.combell.com/nl/blog/is-jouw-website-in-regel-met-de-eu-cookiewetgeving/)
+- [Voorbeeld cookie policy Combell](https://www.combell.com/nl/over-combell/cookie-policy)
