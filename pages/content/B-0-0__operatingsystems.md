@@ -145,6 +145,8 @@ Voorbeelden:
             - Wijzigingen opgeslagen in CMOS (Complementary Metal-Oxide-Semiconductor), grootte 256 bytes.
 
         - Aansluiting opslagtoestellen.
+            - HDD (hard disk drive) of harde schijf is een extern geheugen. Je moet het zien als een elektromechanisch computeronderdeel waar er gegevens op kunnen bewaard worden. De harde schijf is de schijf die ronddraait en waar er een lees- en schrijfoperaties worden op uitgevoerd.
+            - SSD (solid state drive ) is een opslagmedium zoals een harde schijf met dat verschil dat het geen schijf is maar een flashgeheugen. Het voordeel van SSD's zijn de kortere zoek- en toegangstijd voor bestanden in vergelijking met harde schijven.
         - Aansluitingen voor toetsenbord, muis, netwerk,…
 
 

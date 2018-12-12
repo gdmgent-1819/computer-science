@@ -4,6 +4,13 @@ title_long: Fundamenten
 permalink: programming/fundamentals/
 published: true
 ---
+
+## Variabelen
+### Globale variabele
+### Lokale variabele
+## Constanten
+
+
 ## Commentaar plaatsen.
 
 Het is aanbevolen je broncode altijd te voorzien van commentaar zodat je later gemakkelijk wijzigingen kunt uitvoeren en de broncode ook leesbaar/begrijpbaar is voor anderen.

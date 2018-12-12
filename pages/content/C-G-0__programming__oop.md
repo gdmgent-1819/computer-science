@@ -1,6 +1,6 @@
 ---
 title: OOP
-title_long: Object geÖrienteerd Programeren
+title_long: ObjectgeÖrienteerd Programmeren
 permalink: programming/oop/
 ---
 

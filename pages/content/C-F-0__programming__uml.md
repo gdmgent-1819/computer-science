@@ -6,8 +6,10 @@ permalink: programming/uml/
 
 UML staat voor Unified Modeling Language.
 
-Een schematische voorstelling van een klasse doen we altijd aan de hand van een UML schema.
-Een tool om dit gemakkelijk te doen is [StarUML](http://staruml.io) of []().
+Een schematische voorstelling van een klasse doen we altijd aan de hand van een UML-schema.
+
+
+Een tool om dit gemakkelijk te doen is [StarUML](http://staruml.io) of [UML Designer](http://www.umldesigner.org).
 
 Voorbeeld: [UML-schema, Book](https://i.stack.imgur.com/vCgMF.png)
 

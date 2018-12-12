@@ -4,10 +4,24 @@ title_long: Programmeren
 permalink: programming/
 published: true
 ---
+Paradigma
+---------
 - Wat is een paradigma?
 - Wat is een programmeertaal?
+- Welke paradigma's zijn er?
+
+Programmeertalen
+----------------
+- Wat is een programmeertaal?
 - Welke programmeertalen zijn er?
-- Fundamentals van programmeren.
+- Welke onderverdeling is er?
+
+Fundamentals bij programmeren.
+------------------------------
+
+
+
+
 - Wat is data?
 - De verschillende soorten datatypes en datastructuren.
 - Installeren .NET Core in Visual Studio Code.
