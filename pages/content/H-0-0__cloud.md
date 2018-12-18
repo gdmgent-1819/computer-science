@@ -26,13 +26,18 @@ Deze kan bestaan uit volgende: servers (datacenter), airconditioning, elektricit
 Indien je zelf niet wil voorzien in infrastructuur voor je IT dan je opteren voor IaaS.
 Hierbij kan je kiezen om volledig of deels het beheer uit te voeren en ben je verantwoordelijk voor het applicatiebeheer en de applicaties die op die specifieke omgeving zal draaien.
 
+*Afbeelding
 [Schema Iaas](https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAA0vAAAAJDM2ODBiNzMzLWVhYmQtNGU0Yy1iMjg5LTU5MDM2MjliZTY3Zg.jpg)
 
 # Platform as a Service
 
 Platform as a Service of afgekort PaaS staat voor het niveau waarbij de leverancier of serviceprovider meer zal aanbieden dan enkel de infrastructuur. De serviceprovider zal voorzien in de IaaS-laag, het OS (Windows, Linux,...) eventueel ook middleware (webserver (Apache, IIS,...), frameworks (.NET,...), databaseserver (MySQL, MS SQL Server,...)) en eventueel back-up voorzien in het aangeboden servicemodel.
 
+*Afbeelding
 [Schema Paas](https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAA2CAAAAJGExYzYzOTk2LTUzMjQtNGFiMS1iZWE2LTVmMzAzMGNmMDZjOQ.jpg)
+
+# Backend as a Service
+
 
 # Software as a Service
 
@@ -41,6 +46,7 @@ De eindgebruiker dient niet te voorzien in de technische kennis en kan direct va
 
 Voorbeeld: Teamleader, Google Forms, Doodle,...
 
+*Afbeelding
 [Schema Saas](https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAA2yAAAAJGZmOWM0NmNmLWIyNzctNDMyYy1hZDVmLWZkNTRiZDdmNGYxNg.jpg)
 
 

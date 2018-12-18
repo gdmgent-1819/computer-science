@@ -29,7 +29,6 @@ De GDPR is niet van toepassing op anonieme gegevens.
 Als een vestiging van een verwerkingsverantwoordelijke of een verwerker in de EU activiteiten/diensten aan de man brengt aan data subjects in de EU, ongeacht of de verwerking in de EU plaatsvindt of de verwerkingsverantwoordelijke of verwerker in de EU gevestigd is, dan is de GDPR van toepassing.
 Dit is ook van toepassing voor het monitoren van het gedrag van data subjects, als het gedrag in de EU plaatsvindt.
 
-
 ## Welke persoonsgegevens?
 Alle informatie over een geïdentificeerde of identificeerbare natuurlijke persoon (data subject). Identificeerbaar: direct of indirect aan de hand van een indentificator (vb. IP-adres, nickname,...)
 
@@ -43,6 +42,8 @@ Dit zijn gegevens waaruit blijkt dat volgende van toepassing is: ras, etnische a
 Principieel is er een verbod op verwerking.
 De uitzondering op verwerking is er in volgende gevallen: arbeidsrecht, uitdrukkelijke toestemming, arbeidsgeneeskunde, voor een rechtsvordering, data subject heeft gegevens zelf openbaar gemaakt.
 
+De GDPR vraagt ook extra aandacht voor de verwerking van gegevens over kinderen (tot de leeftijd van 16 jaar), in dit geval is de toestemming van de ouders nodig, wat niet zo gemakkelijk te organiseren is.
+
 ## Verwerking van persoonsgegevens.
 
 De GDPR is van toepassing voor de verwerking van persoonsgegevens.
@@ -53,9 +54,60 @@ Voorbeelden:
  - Het bijhouden van een adresboekje met gegevens van je klanten met details over hun installatie; niet-geautomatiseerde verwerking, valt onder de GDPR.
  - Een databank van een webshop met tabellen van accounts met gekoppelde gebruikers en hun bestellingen; geautomatiseerde verwerking, valt onder de GDPR.
 
+### Rechtsgrond voor het verwerken van persoonsgegevens.
+
+Voor het legaal gebruiken van persoonsgegevens moet er altijd een speciek doeleinde en alsook een rechtsgrond zijn voor de verwerking van de persoonsgegevens.
+De verwerking van de persoonsgegevens dient dus altijd noodzakelijk te zijn en in verhouding met het doel.
+
+Er zijn volgens de GDPR meerdere rechtsgronden mogelijk welke niet in alle gevallen van toepassing zijn.
+Daarbij is het altijd belangrijk om na te gaan welke rechtsgrond je hebt vooraleer je start met het verwerken van persoonsgegevens.
+
+De verschillende rechtsgronden voor het verwerken van persoonsgegevens:
+
+- Toestemming van de data subject.
+- Op grond van de uitvoering of voorbereiding van een overeenkomst.
+- Gerechtvaardigd belang.
+- De wettelijke verplichtingen.
+- Het vitale belang.
+- Het algemeen belang.
+
+#### Toestemming van de data subject.
+Hierbij ga je ondubbelzinnig en expliciet de toestemming vragen van de persoon in kwestie (data subject) om zijn gegevens te verwerken.
+De toestemming verkrijg je door een actie van de betrokken persoon, dit kan op digitale of analoge manier verlopen. 
+
+Voorzie ook mechanismen om de data subject hiervan op de hoogte te brengen.
+Bijvoorbeeld bij het inschrijven voor een nieuwsbrief stuur je best een bevestiging naar het desbetreffende e-mailadres en de optie om zich terug te schrappen van de lijst (opt-out).
+En in iedere nieuwsbrief moet er ook een opt-out aanwezig zijn zodat men op een eenvoudige manier kan uitschrijven.
+
+#### Uitvoering of voorbereiding van een overeenkomst.
+In het kader van de voorbereiding of de uitvoering van een overeenkomst dien je over allerlei contactgegevens te beschikken om tot een mogelijke samenwerking te komen tussen klanten, leveranciers,...
+Dit zijn contactgegevens van personen, betaalgegevens, financiële informatie,...
+Natuurlijk is de verwerking mogelijk voor zover die noodzakelijk is om de overeenkomst tot stand te brengen of de producten en/of diensten te leveren welke zijn overeengekomen.
+
+#### Gerechtvaardigd belang.
+Hierbij is de verwerking van persoonsgegevens noodzakelijk voor de behartiging van de gerechtvaardige belangen van de verwerkingsverantwoordelijke of een derde.
+Bijvoorbeeld: je kan het gerechtvaardigd belang gebruiken om te prospecteren zodat je klanten blijft werven zodat je organisatie niet failliet gaat.
+Maar je zal er in dit geval steeds over moeten waken dat de rechten van de data subject (recht op privacy van de data subject) niet zwaarder wegen dan jouw gerechtvaardigd belang.  Je zal dus steeds een afweging moeten maken wat betreft het belang.
+Het gerechtvaardigd belang is de zwakste rechtsgrond.
+
+#### Wettelijke verplichtingen.
+Wettelijke verplichtingen kunnen eveneens de grondslag zijn voor het verwerken van persoonsgegevens.
+Hierbij kan het gaan om nationale of Europese wetgeving die organisaties verplicht om informatie door te geven aan de verschillende overheden.
+Dit is het geval voor bankinstellingen, verzekeringsmaatschappijen, distributiebeheerders (subsidies),...
+Persoonsgegevens nodig voor het opstellen van officiële documenten zoals bestelnota, factuur,... gerechtvaardigd omdat het een wettelijke verplichting is.
+
+#### Het vitaal belang.
+De verwerking van persoonsgegevens is gerechtvaardigd als het gaat om het vitaal belang van de data subject of derden.
+Bijvoorbeeld omwille van een dringende medische reden, als het letterlijk gaat over leven of dood.
+Je moet hierbij wel handelen in het belang van een individuele persoon, met voldoende gezond verstand.
+
+#### Het algemeen belang.
+In het kader van het algemeen belang is de verwerking noodzakelijk voor de uitvoering van een opdracht/taak van algemeen belang of in het kader van de uitvoering van een opdracht/taak van het openbaar gezag (politie, gerecht,...) dat is opgedragen aan de verwerkingsverantwoordelijke.
+
+
 ## Verplichtingen verwerkingsverantwoordelijke.
 
-### Register van verwerkingsactiviteiten
+### Register van verwerkingsactiviteiten.
 Men dient te zorgen voor een up-to-date geschreven of elektronisch register van verwerkingsactiviteiten welke men dient bij te houden, volgens artikel 30 van de GDPR.
 
 ### DPO
@@ -160,9 +212,9 @@ Hierin zijn volgende zaken van belang:
 
 ## Actieplan
 
-Belangrijk is hierbij om in kaart te brengen welke cookies je gebruikt op je website/webapp.
-Voorzie in een pagina met je cookie policy.
-Voorzie in een toestemmingsbericht wanneer je je website/webapp bezoekt.
+- Belangrijk is hierbij om in kaart te brengen welke cookies je gebruikt op je website/webapp.
+- Voorzie in een pagina met je cookie policy.
+- sVoorzie in een toestemmingsbericht wanneer je je website/webapp bezoekt.
 
 
 
