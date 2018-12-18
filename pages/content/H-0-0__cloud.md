@@ -49,6 +49,8 @@ Voorbeeld: Teamleader, Google Forms, Doodle,...
 *Afbeelding
 [Schema Saas](https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAA2yAAAAJGZmOWM0NmNmLWIyNzctNDMyYy1hZDVmLWZkNTRiZDdmNGYxNg.jpg)
 
+Voorbeelden:
+https://cdn-images-1.medium.com/max/1200/1*1CplFpmVV6B3nHWgyWHGOw.png
 
 - Welke soorten cloudoplossingen zijn er?
 - Waarvoor staat IaaS?
