@@ -55,6 +55,9 @@ public class Person
 }
 {% endhighlight %}
 
+# Abstractie
+
+
 # Overerving
 Een klasse kan eigenschappen overnemen vanuit een andere klasse dit noemen we overerving.
 Men spreekt dan van een basisklasse en een superklasse.

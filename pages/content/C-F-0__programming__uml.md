@@ -6,6 +6,9 @@ permalink: programming/uml/
 
 UML staat voor Unified Modeling Language.
 
+UML kan je gebruiken voor verschillende visualisaties:
+
+
 Een schematische voorstelling van een klasse doen we altijd aan de hand van een UML-schema.
 
 
