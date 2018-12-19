@@ -21,7 +21,7 @@ JSON is uitgevonden in 2001 en werd populair vanwege Yahoo en Google in 2005 - 2
 
 Voorbeeld van lijst bomem in JSON-formaat:
 
-{% highlight json linenos %} 
+{% highlight cs linenos %}
 {“naam”:”eik”,”vruchten”:”eikels″},
 {“name”:”kastanje”,”vruchten”:”kastanjes″}
 {% endhighlight %}
@@ -41,7 +41,7 @@ XML is ontstaan in 1996 en is officieel een W3C standaard geworden in 1998. XML 
 
 Voorbeeld van lijst van bomen in XML-formaat:
 
-{% highlight xml linenos %} 
+{% highlight cs linenos %}
 <boom>
 <naam>eik</naam>
 <vruchten>eikels</vruchten
@@ -68,8 +68,9 @@ Dit komt omdat elk element verpakt zit in een bijhorende tag (open- en sluittag 
 Zoals de naam doet vermoeden bestaat dit dataformaat uit een lijst van elementen die gescheiden zijn door een komma.
 
 Voorbeeld van lijst van bomen in CSV-formaat:
-``` csv
+{% highlight cs linenos %}
 eik,kastanje,linde,beuk
+{% endhighlight %}
 
 ## Voordeel
 Dit formaat is de meest compacte van de drie formaten.
@@ -87,7 +88,6 @@ In dat geval zal je moeten voorzien in een complexere parser die weet welke elem
 Een mogelijke oplossing om dan gebruik te maken van een ander scheidingsteken zoals een puntkomma (;) om elk attribuut van een boom te scheiden.
 
 Voorbeeld van lijst van bomen met attributen in CSV-formaat:
-``` csv
+{% highlight cs linenos %}
 eik;eikels;30,kastanje;kastanjes;35,linde,beuk;beukennoten;22
-
-//[Referentie voorbeelden code repo.](https://github.com/gdmgent/1718-csse-code/tree/master/week02)
+{% endhighlight %}

@@ -52,9 +52,7 @@ Voorbeelden:
 - Apache CouchDB
 
 # Column-Oriented Databases
-Elk blok bestaat uit gegevens afkomstig uit slechts één kolom, {Example- HBase, Cassandra}
-elk opslagblok bevat gegevens uit slechts één kolom, {Example- HBase, Cassandra}
-ach storage block contains data from only one column, {Example- HBase, Cassandra}
+Elk blok bestaat uit gegevens afkomstig uit slechts één kolom.
 
 Voorbeel:
 - Google’s Bigtable
