@@ -74,6 +74,7 @@ Overzicht
 | =========|==========|==========|==========|==========|
 {:.table.table-bordered}
 
+{% include shared/figure.html src="https://raw.githubusercontent.com/krisra/gdmgent-1819-csse1/master/images/datatypes.png" alt="Datatypes" caption="Datatypes"%}
 
 ## Enkelvoudige datatypes.
 
